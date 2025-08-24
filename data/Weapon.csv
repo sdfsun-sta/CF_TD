@@ -1,0 +1,3 @@
+Id,Slot,Type,BaseDamage,HeadshotMult,CritMult,DistanceFalloff,ArmorPen,FireRate,Mag,Reload,RefireCD,Range,BulletSpeed,AccBase,AccS,AccK,acc_floor,WeakpointRate_Near,WeakpointRate_Mid,WeakpointRate_Far,TurnRate,MultiLock,pierce_cnt,hit_limit,AOERadius,SplashCurveId,Tags
+AR,Primary,AR,28,1.5,1.35,0.5,0.6,8.5,30,2.0,,50,900,0.8,6,0.03,0.3,0.3,0.3,0.3,0,1,0,1,0,,
+SR,Primary,SR,180,2.0,1.5,0,0.9,,5,,0.6,80,700,0.9,12,0.01,0.3,0.4,0.4,0.4,0,1,0,1,0,,

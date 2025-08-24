@@ -1,0 +1,5 @@
+Id,Radius,Delay,Cooldown,EnergyCost,BaseDamage,SplashCurveId,SpecialRules
+C4,2.5,0.8,18,40,280,,
+Airstrike,2.5,0.2,35,60,120,,
+Flash,2.0,0.2,22,35,0,stun
+Smoke,3.0,0.2,28,40,0,slow
